@@ -1,0 +1,354 @@
+    1  man
+    2  man LS
+    3  man ls
+    4  ls
+    5  ls
+    6  Desctop
+    7  cd Desctop
+    8  cd Desktop
+    9  cd~
+   10  /
+   11  cd /
+   12  cd D
+   13  cd Desktop/
+   14  cd Desktop /
+   15  cd Desktop/
+   16  ls
+   17  cd D
+   18  cd D
+   19  cd Desctop
+   20  cd Data
+   21  cd Desktop
+   22  cd Desktop pwd
+   23  cd Desktop
+   24  pwd
+   25  cd Data
+   26  cd ..
+   27  cd Desktop
+   28  pwd
+   29  cd Data
+   30  cd ..
+   31  cd Desktop
+   32  pwd
+   33  cd Data
+   34  cd Desktop
+   35  pwd
+   36  cd Data
+   37  mkdir Lesson
+   38  ls
+   39  touch empty.
+   40  touch empty. txt
+   41  touch empty.txt
+   42  nano empty.txt
+   43  Desctop
+   44  ls
+   45  ls
+   46  cd Desktop
+   47  ls
+   48  cd..
+   49  cd ..
+   50  ls
+   51  cd Desktop
+   52  cd~
+   53  cd ~
+   54  cd/
+   55  cd /
+   56  cd Desktop
+   57  cd Desktop
+   58  Desctop
+   59  ls
+   60  cd Desktop
+   61  cd Data
+   62  cd Data
+   63  pwd
+   64  cd Data
+   65  mkdir Lesson
+   66  mkdir Lesson 2
+   67  ls
+   68  touch empty.txt
+   69  ls
+   70  nano empty.txt
+   71  cat empty.txt
+   72  cp empty.txt
+   73  pwd
+   74  cp/Users/irynadrahan/Desktop  
+   75  cp /Users/irynadrahan/Desktop
+   76  cp /Users/irynadrahan/Desktop/empty.txt /Users/irynadrahan/Downloads
+   77  ping google.com
+   78  date
+   79  clear
+   80  who am I
+   81  cd Git
+   82  clear
+   83  cd GIT
+   84  clear
+   85  ls
+   86  cd Git
+   87  clear
+   88  ls
+   89  cd Desktop
+   90  mkdir Git1
+   91  pwd
+   92  cd Git
+   93  clear
+   94  ls
+   95  cd Desktop
+   96  clear
+   97  ls
+   98  cd Desktop
+   99  cd Git1
+  100  git config--global user.name "Iryna Drahan"
+  101  ls
+  102  cd Desktop
+  103  cd Git1
+  104  git config--global user.name "Iryna Drahan"
+  105   clear
+  106  git config -- global user.name"Iryna Drahan"
+  107  clear
+  108  git config --global user.name "Iryna Drahan"
+  109  clear
+  110  git config--global user.name "Iryna Drahan"
+  111  clear
+  112  git config --global user.name "Iryna Drahan"
+  113  clear
+  114  ls
+  115  cd Desktop
+  116  cd mkdir Git2
+  117  pwd
+  118  mkdir Git2
+  119  clear
+  120  ls
+  121  ls
+  122  cd Desktop
+  123  mkdir Git3
+  124  cd Git
+  125  clear
+  126  ls
+  127  cd Desktop
+  128  ls
+  129  cd Desktop
+  130  mkdir Git5
+  131  cd Git5
+  132  clear
+  133  ls
+  134  cd Desktop
+  135  mkdir Lesson9
+  136  ls
+  137  clear
+  138  ls
+  139  cd Desktop
+  140  ls
+  141  cd Desktopclear
+  142  clear
+  143  ls
+  144  cd Desktop
+  145  mkdir Git10
+  146  pwd
+  147  clear
+  148  ls
+  149  cd Desktop
+  150  cd Git15
+  151  clear
+  152  ls
+  153  cd Desktop
+  154  mkdir Git15
+  155  cd Git15
+  156  git config --global user.name "Ityna Drahan"
+  157  config --global user.name "Ityna Drahan"
+  158  config --global user.name "Iryna Drahan"
+  159  git15 config --global user.name "Iryna Drahan"
+  160  Git15 config --global user.name "Iryna Drahan"
+  161  git15 config -- global user.name "Iryna Drahan"
+  162  git15 config--global user.name "Iryna Drahan"
+  163  git15 config --global user.name "Iryna Drahan"
+  164  clear
+  165  ls
+  166  cd Desktop
+  167  mkdir GIT16
+  168  cd GIT16
+  169  ls
+  170  cd Desktop
+  171  mkdir GIT16
+  172  cd Git16
+  173  git config --global user.name "Iryna Drahan"
+  174  git config --global user.email irynadrahan2@gmail.com
+  175  git clone https://github.com/IRYNA40/Lesson3.1.git
+  176  git status
+  177  cd Lesson3.1/ git status
+  178  git status
+  179  cd Lesson3.1/git status
+  180  cd Lesson3.1
+  181  git status
+  182  touch.txt
+  183  gid add New.txt
+  184  touch New.txt
+  185  git add New.txt
+  186  git status
+  187  git comit -m "New file created"
+  188  git commit -m "New file created"
+  189  git status
+  190  git log
+  191  git branch
+  192  git checkout -b new_branch
+  193  git branch
+  194  git checkout main
+  195  git branch
+  196  git checkout new_branch
+  197  nano New.txt
+  198  git status
+  199  git status
+  200  git commit -m "New modified"
+  201  git branch
+  202  git checkout main
+  203  git merge new_branch
+  204  git branch
+  205  git status
+  206  git add New.txt
+  207  git status
+  208  git commit -m "New modified"
+  209  git push
+  210  ls
+  211  cd Desktop
+  212  Git16
+  213  ls
+  214  cd Desktop
+  215  cd Git16
+  216  history -c && rm ~
+  217  history -c&& rm ~
+  218  history-c&&rm~
+  219  history -c&& rm ~
+  220  ls
+  221  cd Desktop
+  222  cd GIT16
+  223  git clone https://github.com/IRYNA40/HW_10.git
+  224  touch text_ignore.txt
+  225  nano .gitignore"text_ignore.txt"
+  226  ls
+  227  cd Desktop
+  228  cd Git16
+  229  git clone https://github.com/IRYNA40/HW_10.git
+  230  clear
+  231  ls
+  232  cd Desktop
+  233  cd Git16
+  234  git clone https://github.com/IRYNA40/HW_10.git
+  235  clear
+  236  ls
+  237  cd Desktop
+  238  git clone https://github.com/IRYNA40/HW_10.git
+  239  cd
+  240  git clone https://github.com/IRYNA40/HW_10.git
+  241  cd https://github.com/IRYNA40/HW_10.git
+  242  cd https://github.com/IRYNA40/HW_10.git
+  243  ls
+  244  cd Desktop
+  245  cd GIT16
+  246  git clone https://github.com/IRYNA40/HW_10.git
+  247  ls
+  248  cd Desktop
+  249  cd Git16
+  250  git clone https://github.com/IRYNA40/HW_10.git
+  251  git clone https://github.com/IRYNA40/HW_10.git
+  252  cd https://github.com/IRYNA40/HW_10.git
+  253  ls
+  254  cd Desctop
+  255  cd Git16
+  256  clear
+  257  ls
+  258  cd Desktop
+  259  cd Git16
+  260  history -c&& rm ~/.bash_history
+  261  clear
+  262  ls
+  263  cd Desktop
+  264  cd Git16
+  265  git clone https://github.com/IRYNA40/HW_10.git
+  266  ls
+  267  cd Desktop
+  268  cd Git16
+  269  git clone https://github.com/IRYNA40/HW_10.git
+  270  ls
+  271  cd Desctop
+  272  cd Git16
+  273  cd https://github.com/IRYNA40/HW_10.git
+  274  clear
+  275  ls
+  276  cd Desctop
+  277  cd Git16
+  278  clear
+  279  ls
+  280  cd Desktop
+  281  cd Git16
+  282  git clone https://github.com/IRYNA40/HW_10.git
+  283  touch text_ignore.txt
+  284  nano .ignoretext_ignore.txt
+  285  git status
+  286  git add
+  287  ls
+  288  cd Desctop
+  289  cd Git16
+  290  git clone https://github.com/IRYNA40/HW_10.git
+  291  ls
+  292  cd Desktop
+  293  cd Git16
+  294  git clone https://github.com/IRYNA40/HW_10..git
+  295  cd https://github.com/IRYNA40/HW_10..git
+  296  git clone https://github.com/IRYNA40/HW_10..git
+  297  clear
+  298  ls
+  299  cd Desktop
+  300  cd Git16
+  301  git clone https://github.com/IRYNA40/HW_10..git
+  302  clear
+  303  ls
+  304  cd Desktop
+  305  cd Git16
+  306  git clone https://github.com/IRYNA40/HW_101..git
+  307  cd WH_101.
+  308  cd WH_101.
+  309  cd "WH_101."
+  310  touch text_ignore.txt
+  311  clear
+  312  ls
+  313  cd Desktop
+  314  cd Git16
+  315  git clone https://github.com/IRYNA40/HW_10...git
+  316  cd HW_10..
+  317  touch text_ignore.txt
+  318  nano .gitignoretext_ignore.txt
+  319  git status
+  320  git add
+  321  git add .gitignoretext_ignore.txt
+  322  nano .gitignore
+  323  clear
+  324  ls
+  325  cd Desktop
+  326  cd Git16
+  327  git clone https://github.com/IRYNA40/HW_10...git
+  328  ls
+  329  cd Desktop
+  330  mkdrir GIT17
+  331  mkdir GIT17
+  332  cd Git17
+  333  git clone https://github.com/IRYNA40/HW_10...git
+  334  cd WH_10..
+  335  cd HW_10..
+  336  touch text_ignore.txt
+  337  echo text_ignore.txt > .gitignore
+  338  git status
+  339  git add .
+  340  git commit -m "text_ignore.txt"
+  341  touch main_test.txt
+  342  git add .
+  343  git commit -m "main_test.txt"
+  344  git checkout -b develop
+  345  touch develop_test.txt
+  346  git add .
+  347  git commit -m "develop_test.txt"
+  348  echo 99999 > develop_test.txt
+  349  git status
+  350  git add .
+  351  git commit -m "develop_test.txt 2"
+  352  git checkout main
+  353  git merge develop
+  354  git log
